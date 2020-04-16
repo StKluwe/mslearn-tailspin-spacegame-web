@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/StephanKluweCH/Space%20Game%20-%20AzureLearning%20-%20Pipeline/_apis/build/status/StKluwe.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/StephanKluweCH/Space%20Game%20-%20AzureLearning%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
